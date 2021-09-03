@@ -1,3 +1,3 @@
 # Dice_App
 App to Rool a Dice
-![Dice App](DiceUI.jpg)
+![Dice App](DiceUI.png)
