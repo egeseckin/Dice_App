@@ -13,6 +13,7 @@
 		0D1BF3AA26E2682C007702D2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0D1BF3A826E2682C007702D2 /* Main.storyboard */; };
 		0D1BF3AC26E2682D007702D2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0D1BF3AB26E2682D007702D2 /* Assets.xcassets */; };
 		0D1BF3AF26E2682D007702D2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0D1BF3AD26E2682D007702D2 /* LaunchScreen.storyboard */; };
+		0D1BF3B926E271CC007702D2 /* DiceUI.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0D1BF3B826E271CC007702D2 /* DiceUI.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0D1BF3AB26E2682D007702D2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0D1BF3AE26E2682D007702D2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0D1BF3B026E2682D007702D2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0D1BF3B826E271CC007702D2 /* DiceUI.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = DiceUI.jpg; path = ../../../../../../var/folders/5z/7jy9krpn0gs30449phd3l6sr0000gn/T/TemporaryItems/NSIRD_screencaptureui_IllFp5/DiceUI.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		0D1BF3A126E2682C007702D2 /* DiceApp */ = {
 			isa = PBXGroup;
 			children = (
+				0D1BF3B826E271CC007702D2 /* DiceUI.jpg */,
 				0D1BF3A226E2682C007702D2 /* AppDelegate.swift */,
 				0D1BF3A426E2682C007702D2 /* SceneDelegate.swift */,
 				0D1BF3A626E2682C007702D2 /* ViewController.swift */,
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0D1BF3AF26E2682D007702D2 /* LaunchScreen.storyboard in Resources */,
+				0D1BF3B926E271CC007702D2 /* DiceUI.jpg in Resources */,
 				0D1BF3AC26E2682D007702D2 /* Assets.xcassets in Resources */,
 				0D1BF3AA26E2682C007702D2 /* Main.storyboard in Resources */,
 			);
